@@ -1,4 +1,4 @@
-# PSQI Calculator for SPSS 30 (Dual Version)
+# PSQI Calculator for SPSS 30
 
 ![SPSS Version](https://img.shields.io/badge/SPSS-v30-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
